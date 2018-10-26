@@ -1,0 +1,6 @@
+micronaut:
+    application:
+        name: config-test
+app:
+    param1: test1
+    param2: test2

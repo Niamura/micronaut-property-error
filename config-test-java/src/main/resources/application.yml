@@ -1,0 +1,7 @@
+micronaut:
+    application:
+        name: config-test-java
+
+app:
+    param1: test1
+    param2: test2
